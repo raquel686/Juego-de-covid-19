@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Final\Final\Debug\Final.vcxprojAssemblyReference.cache
+C:\Users\User\source\repos\Final\Final\Debug\Final.MyForm.resources
+C:\Users\User\source\repos\Final\Final\Debug\Final.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\Final\Final\Debug\Final.MyForm2.resources
+C:\Users\User\source\repos\Final\Final\Debug\Final.MyForm1.resources

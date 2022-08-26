@@ -1,0 +1,6 @@
+﻿  enemigo2.cpp
+C:\Users\User\source\repos\Final\Final\enemigo2.cpp(77,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\Final\Final\enemigo2.cpp(78,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\User\source\repos\Final\Final\enemigo2.cpp(79,20): warning C4018: '<': no coinciden signed/unsigned
+  ambulancia.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Final.vcxproj -> C:\Users\User\source\repos\Final\Debug\Final.exe

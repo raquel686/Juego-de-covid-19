@@ -1,0 +1,41 @@
+﻿  ambulancia.cpp
+  balaenem.cpp
+D:\visual\FinalTrabajo\Final\balaenem.cpp(26,34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\balaenem.cpp(30,35): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  balasalu.cpp
+D:\visual\FinalTrabajo\Final\balasalu.cpp(25,34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\balasalu.cpp(29,35): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  basura.cpp
+  elemento.cpp
+  enemigo.cpp
+D:\visual\FinalTrabajo\Final\enemigo.cpp(78,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\enemigo.cpp(79,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\enemigo.cpp(88,49): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  enemigo2.cpp
+D:\visual\FinalTrabajo\Final\enemigo2.cpp(77,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\enemigo2.cpp(78,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\enemigo2.cpp(87,50): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  juego.cpp
+D:\visual\FinalTrabajo\Final\juego.cpp(236,47): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\juego.cpp(237,49): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  jugador.cpp
+D:\visual\FinalTrabajo\Final\jugador.cpp(29,34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\jugador.cpp(33,35): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\jugador.cpp(68,20): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\jugador.cpp(75,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\jugador.cpp(76,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  mensaje.cpp
+D:\visual\FinalTrabajo\Final\mensaje.cpp(29,34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\mensaje.cpp(33,35): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  MyForm.cpp
+D:\visual\FinalTrabajo\Final\MyForm.h(260,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\MyForm.h(261,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  MyForm1.cpp
+D:\visual\FinalTrabajo\Final\MyForm.h(260,13): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+D:\visual\FinalTrabajo\Final\MyForm.h(261,12): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  MyForm2.cpp
+  policia.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  ambulancia.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Final.vcxproj -> D:\visual\FinalTrabajo\x64\Debug\Final.exe

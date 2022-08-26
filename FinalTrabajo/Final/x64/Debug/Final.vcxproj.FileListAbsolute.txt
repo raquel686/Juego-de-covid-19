@@ -1,0 +1,5 @@
+D:\visual\FinalTrabajo\Final\x64\Debug\Final.vcxprojAssemblyReference.cache
+D:\visual\FinalTrabajo\Final\x64\Debug\Final.MyForm.resources
+D:\visual\FinalTrabajo\Final\x64\Debug\Final.MyForm1.resources
+D:\visual\FinalTrabajo\Final\x64\Debug\Final.MyForm2.resources
+D:\visual\FinalTrabajo\Final\x64\Debug\Final.vcxproj.GenerateResource.cache
